@@ -1,0 +1,51 @@
+Serial_ID,Patient_Name,Sex,Blood_group,Age,BMI,Blood_Pressure,Blood_Sugar,Insulin,Glucose,Diabetes_Outcome,Blood_urea_nitrogen_level,Uric_acid,Creatinine_level,Kidney_test_outcome,Drug_Diabetes,Drug_kidney
+A001,Ananya Mohan,Female,A-,47,33.6,62,80,0,138,1,20,5.5,1.2,0,Precose,Enalapril
+A002,Dasari K,Male,A-,23,38.2,82,52,125,84,0,20,1.8,1.3,0,Glyset,Enalapril
+A003,Karan Jadeja,Male,AB+,31,44.2,0,99,0,145,1,7,3.4,0.9,0,Precose,Enalapril
+A004,Himanshu Soni,Male,A+,24,42.3,68,110,250,135,0,15,4.5,0.4,0,Precose,Ramipril
+A005,Moti Lal,Male,O+,21,40.7,62,155,480,139,0,25,6.7,1.5,1,Precose,Captopril
+A006,Jay Shankar,Male,B+,58,46.5,78,80,265,173,0,34,2.3,1.6,1,Precose,Captopril
+A007,Ricky Corey,Male,AB,28,25.6,72,120,0,99,0,23,2.6,0.5,0,Glyset,Captopril
+A008,Anuraag Thakar,Male,AB-,67,26.1,80,250,0,194,1,24,2.1,0.6,0,Precose,Enalapril
+A009,Billy Hughes,Male,A+,24,36.8,65,232,66,83,0,23,3.6,0.7,0,Glyset,Enalapril
+A010,Abhiraj,Male,O+,42,33.5,90,180,0,89,0,30,6.4,1.2,0,Glyset,Enalapril
+A011,Ben Thomas,Male,O-,33,32.8,68,60,0,99,0,35,3.2,0.8,0,Glyset,Enalapril
+A012,Yogesh Gopi,Male,A-,45,28.9,70,80,122,125,1,10,3.4,0.9,0,Precose,Enalapril
+A013,Shrishti Tyagi,Female,AB+,22,0,0,250,0,80,0,5,4.5,0.5,0,Actoplus,Ramipril
+A014,Ayushi Kaul,Female,AB+,66,26.6,74,180,0,166,1,34,5.6,1.3,1,Precose,Enalapril
+A015,Bose,Male,AB+,30,26,68,130,0,110,0,29,8.2,1.5,1,Precose,Enalapril
+A016,Shibin,Male,B+,25,30.1,72,120,76,81,0,27,6,1.5,1,Actoplus,Enalapril
+A017,Dolly,Female,A+,55,25.1,70,150,145,195,1,26,5.7,1.3,1,Precose,Enalapril
+A018,Allan,Male,A+,39,29.3,74,140,193,154,0,21,2.4,1.2,0,Precose,Enalapril
+A019,Soman Kumar,Male,A-,21,25.2,90,120,71,117,0,20,5.8,1.3,0,Precose,Enalapril
+A020,Eliel R Famhoite,Female,O-,28,37.2,72,150,0,84,0,14,6.7,1.2,0,Actoplus,Enalapril
+A021,Shubhanshi Gupta,Female,A+,41,39,68,123,0,190,1,25,7.8,1.5,1,Precose,Enalapril
+A022,Akash Das,Male,AB+,41,33.3,64,90,79,94,0,31,7.9,1.6,1,Glyset,Captopril
+A023,Tanya Verma,Female,B-,40,37.3,78,110,0,96,1,14,2.3,0.4,0,Glyset,Ramipril
+A024,Shrey Goyal,Male,B+,38,33.3,82,99,0,75,0,15,2.3,0.3,0,Actoplus,Ramipril
+A025,Shikha Sodi,Female,O+,35,36.5,90,95,90,180,0,20,3,0.9,0,Precose,Enalapril
+A026,Apurv Sagar,Male,AB+,21,28.6,60,96,170,130,1,32,2.9,0.5,0,Precose,Ramipril
+A027,Gaurav Chauhan,Male,AB-,21,30.4,50,80,76,84,0,20,3.9,1.2,0,Glyset,Enalapril
+A028,Roy,Male,O+,64,25,78,85,0,120,1,26,4.5,1.3,1,Glyset,Enalapril
+A029,Prateek Gupta,Male,AB+,46,29.7,72,65,0,84,0,25,5.6,1.5,1,Glyset,Enalapril
+A030,Sourabh Singh,Male,B-,21,22.1,62,220,210,139,1,23,6.7,1.6,1,Precose,Captopril
+A031,Sandeep Santhosh,Male,O-,58,24.2,68,123,0,91,0,21,4.7,1.2,0,Glyset,Enalapril
+A032,Trishita Majumdaar,Female,AB+,22,27.3,62,120,0,91,1,26,6.9,1.3,1,Glyset,Enalapril
+A033,Kabir Behar,Male,O+,24,25.6,54,90,86,99,0,24,6.4,1.6,1,Glyset,Captopril
+A034,Aditi Ghaitonde,Female,A+,28,31.6,70,95,105,163,1,13,2.7,1.3,0,Precose,Enalapril
+A035,Emily Zacariah,Female,B+,45,27.6,78,98,0,122,1,14,1.7,0.2,0,Precose,Ramipril
+A036,Gayatri Reddy,Female,AB+,33,24,60,100,192,103,0,12,2.6,0.9,0,Precose,Ramipril
+A037,Shyam Kumar,Male,A-,35,33.2,76,120,0,138,1,16,3.4,0,0,Precose,Ramipril
+A038,Ritu Mol,Male,B-,46,32.9,76,130,0,102,0,13,6.3,1.3,0,Glyset,Enalapril
+A039,Paul Walker,Male,O+,27,38.2,68,150,0,90,0,24,6.7,1.5,1,Glyset,Enalapril
+A040,Nandita Menon,Female,AB+,56,37.1,72,140,207,111,0,29,8.9,1.9,1,Glyset,Captopril
+A041,Hritika Rawat,Female,O-,26,34,64,120,70,180,0,12,6.2,1.4,0,Precose,Enalapril
+A042,Sriyansh,Male,O+,37,40.2,84,123,0,133,1,18,5.8,1.2,0,Precose,Enalapril
+A043,Hosannah,Female,O+,48,22.7,92,140,0,106,0,37,8.9,2,1,Glyset,Captopril
+A044,Diana,Female,B-,54,45.4,110,250,240,171,0,38,6.7,2.6,1,Precose,Captopril
+A045,Sindhu Vasant,Female,AB+,40,27.4,64,180,0,159,1,31,7.3,2.5,1,Precose,Captopril
+A046,Raju Varghese,Male,A+,25,42,66,145,0,180,1,33,8.5,3.6,1,Precose,Captopril
+A047,Lissy Reji,Female,A-,29,29.7,56,123,0,146,1,29,8.8,2.8,1,Precose,Captopril
+A048,Vijay Sethupati,Male,A+,22,28,70,156,0,71,0,31,8.4,2.4,1,Actoplus,Captopril
+A049,Sai Pallavi,Female,B+,31,39.1,66,253,0,103,1,32,5.7,2.8,1,Glyset,Captopril
+A050,Dulquer Salmaan,Male,O-,32,49.1,70,120,0,99,0,33,7.7,2.6,1,Glyset,Captopril
